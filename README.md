@@ -58,7 +58,13 @@ Distributed under the MIT License. See `LICENSE.MIT` for more information.
 Following is the Bibtex if you would like to cite our paper :
 
 ```bibtex
-TODO
+@inproceedings{zenn2023resampling,
+  author       = {Johannes Zenn and Robert Bamler},
+  title        = {Resampling Gradients Vanish in Differentiable Sequential Monte Carlo Samplers},
+  booktitle    = {The First Tiny Papers Track at {ICLR} 2023, Tiny Papers @ {ICLR} 2023, Kigali, Rwanda, May 5, 2023},
+  year         = {2023},
+  url          = {https://openreview.net/pdf?id=kBkou5ucR\_d}
+}
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
